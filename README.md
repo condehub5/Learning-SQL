@@ -16,7 +16,7 @@ This is a guide containing educational content for learning SQL.
 índice
 
 1. (Available Resources on the Web)[]
-2. (SQL - EASY)[https://www.sql-easy.com/]
+2. [SQL - EASY](https://www.sql-easy.com/)
 
 
 
